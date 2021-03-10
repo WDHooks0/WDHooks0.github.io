@@ -349,6 +349,7 @@ p, li, span, label, input, textarea {
     color: #fff;
     background-color: var(--buttonColor);
     border: none;
+    cursor: pointer;
 }
 
 @media screen and (max-width: 1200px) {
